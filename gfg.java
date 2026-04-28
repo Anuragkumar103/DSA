@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG{
+class gfg{
     private static final int MOD = 1000000007;
 
     public static int CountString(int X, int Y) {
