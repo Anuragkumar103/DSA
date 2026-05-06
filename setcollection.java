@@ -11,7 +11,7 @@ public class setcollection {
         System.out.println("enter your number");
         Integer x=sc.nextInt();
         Random radn=new Random();
-        List<Integer> nums=Arrays.asList(2,3,5,4,6,7,8,9);
+        List<Integer> nums=Arrays.asList(2,3,5,4,6,7,8,9,10); 
         Set <Integer> set=new HashSet<>(nums);
         Set<Integer>bigset=new HashSet<>(1000);
         for (int i = 0; i < 1000; i++) {
