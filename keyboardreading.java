@@ -11,7 +11,7 @@ public class keybordreadingcharstream {
             System.out.println("String is : " + str1);
 
             System.out.println("Enter a whole number: ");
-            String str2=b.readLine();
+            String str2=b.readLine(); 
             int x =Integer.parseInt(str2);
 
             System.out.println("Enter a double value : ");
